@@ -1,0 +1,5 @@
+"Sample ID","Type","Conc","WL885.0","Comments"
+"2023NSCC","Unknown",0.607,-0.000,""
+"2024NSCC","Unknown",1.089,0.003,""
+"2023NSCD","Unknown",0.630,-0.000,""
+"2024NSCD","Unknown",2.437,0.013,""
